@@ -1,0 +1,11 @@
+Intercepto: 2043939.67
+Coeficientes:
+  Store: -15079.61
+  Holiday_Flag: 76321.85
+  Temperature: -761.89
+  Fuel_Price: -4654.77
+  CPI: -2318.25
+  Unemployment: -24502.35
+
+MSE: 274455221280.66
+R²: 0.1481
